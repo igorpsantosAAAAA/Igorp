@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Igor
+# Olá, eu sou Igor
 
 Bem-vindo ao meu perfil do GitHub!  
 Aqui você vai encontrar projetos, estudos e experimentos envolvendo programação, tecnologia e aprendizado contínuo.
@@ -6,17 +6,17 @@ Estudo ciência da computação na Unifil em Londrina
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-- 🎓 Estudando programação desde o básico
-- 💻 Interessado em desenvolvimento de software
-- 📚 Sempre aprendendo novas tecnologias
-- 🛠️ Criando projetos para praticar lógica e código
-- 🌎 Brasil
+-  Estudando programação desde o básico
+-  Interessado em desenvolvimento de software
+-  Sempre aprendendo novas tecnologias
+-  Criando projetos para praticar lógica e código
+-  Brasil
 
 ---
 
-## 🧠 Tecnologias que estou aprendendo
+##  Tecnologias que estou aprendendo
 
 - Python
 - C
@@ -26,7 +26,7 @@ Estudo ciência da computação na Unifil em Londrina
 
 ---
 
-## 📌 Objetivos
+##  Objetivos
 
 - Melhorar minhas habilidades em programação
 - Criar projetos cada vez mais completos
@@ -35,7 +35,7 @@ Estudo ciência da computação na Unifil em Londrina
 
 ---
 
-## 📂 Projetos
+##  Projetos
 
 Alguns tipos de projetos que você pode encontrar aqui:
 
@@ -47,12 +47,12 @@ Alguns tipos de projetos que você pode encontrar aqui:
 
 ---
 
-## 📫 Contato
+##  Contato
 - Email: igorpenasso2008@gmail.com
 
 ---
 
-## ⚡ Curiosidades
+##  Curiosidades
 
 - Gosto de aprender na prática
 - Curto desafios de lógica
